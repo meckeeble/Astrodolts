@@ -1,5 +1,5 @@
 # Astrodolts
-This project has been through several iterations evolving from a now defunct repo to a game with as potential commercial release.
+This project has been through several iterations evolving from a now defunct repo to a game with as potential commercial release. Although that is quite some way off.
 
 Local multiplayer in action:
 https://vimeo.com/493678840
