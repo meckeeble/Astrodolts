@@ -12,7 +12,7 @@ The player prefab consists of the visible player character and a camera which is
 
 The player has a rigid body, collider, and operates with the scripts:
 
--Player Look Original (named for when I had multiple scripts handling the camera in different ways)
+-Player Look Original (named for when I had multiple scripts handling the camera in different ways. Other movement/camera scripts may be repurposed for a spectator view)
 
 -Add Force Movement (this script is based on a very buggy script I found here https://wiki.unity3d.com/index.php/RigidbodyFPSWalker)
 
