@@ -5,7 +5,7 @@ I began work on the concept for proper at the start of November.
 Local multiplayer in action:
 https://vimeo.com/493678840
 
-Demonstraction and commentary:
+Demonstration and commentary:
 https://vimeo.com/493743448
 
 Notes on Hierarchy set up:
