@@ -46,13 +46,14 @@ public class Death : MonoBehaviour
 
         Destroy(GetComponentInChildren<ParticleSystem>());
 
-        //let the sadness linger :'(
+        //let the the ragdoll camera linger
         yield return new WaitForSeconds(3f);
 
         //switch to spectate
         this.gameObject.GetComponent<AudioListener>().enabled = false;
         //spectator.enabled = true;
         cameras[1].enabled = false;
+        //Audio listeners need sorting
         //spectator.gameObject.GetComponent<AudioListener>().enabled = true;
 
         Destroy(this.gameObject);
