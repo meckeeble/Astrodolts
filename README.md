@@ -1,6 +1,5 @@
 # Astrodolts
-After much work on my BombJump respository, I'm making a game from it. This project has been through several iterations evolving from a now defunct repo
-I began work on the concept for proper at the start of November. 
+This project has been through several iterations evolving from a now defunct repo to a game with as potential commercial release.
 
 Local multiplayer in action:
 https://vimeo.com/493678840
