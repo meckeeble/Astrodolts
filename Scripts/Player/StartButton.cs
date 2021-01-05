@@ -15,7 +15,6 @@ public class StartButton : MonoBehaviour
     public void StartPressed(InputAction.CallbackContext ctx)
     {
         Debug.Log("start");
-        //Checks if the scene is the game lobby then moves onto main scene on press
         if (SceneManager.GetActiveScene().name == "LocalLobby" && FindObjectsOfType<PlayerInput>().Length > 0)
         {
             FindObjectOfType<PlayerInputManager>().splitScreen = true;      

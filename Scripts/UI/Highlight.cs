@@ -6,7 +6,7 @@ using UnityEngine.UI;
 
 public class Highlight : MonoBehaviour
 {
-    //Script for UI elements. Currently disabled due to on going issues.
+
     public RectTransform throwBar;
     public SpawnBomb barSize;
 
