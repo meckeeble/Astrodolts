@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EcoVFyor7dnbYvgUVyImjBwBkd41D20Qyg0KxtEiJVizO44oGUUCXOWz2dsKGfEMGNb6fubU39j/KgWYlto5Ag==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\GameServer\\GameServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

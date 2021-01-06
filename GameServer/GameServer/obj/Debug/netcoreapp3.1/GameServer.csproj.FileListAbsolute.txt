@@ -1,0 +1,13 @@
+D:\Projects\GameServer\bin\Debug\netcoreapp3.1\GameServer.exe
+D:\Projects\GameServer\bin\Debug\netcoreapp3.1\GameServer.deps.json
+D:\Projects\GameServer\bin\Debug\netcoreapp3.1\GameServer.runtimeconfig.json
+D:\Projects\GameServer\bin\Debug\netcoreapp3.1\GameServer.runtimeconfig.dev.json
+D:\Projects\GameServer\bin\Debug\netcoreapp3.1\GameServer.dll
+D:\Projects\GameServer\bin\Debug\netcoreapp3.1\GameServer.pdb
+D:\Projects\GameServer\obj\Debug\netcoreapp3.1\GameServer.csprojAssemblyReference.cache
+D:\Projects\GameServer\obj\Debug\netcoreapp3.1\GameServer.AssemblyInfoInputs.cache
+D:\Projects\GameServer\obj\Debug\netcoreapp3.1\GameServer.AssemblyInfo.cs
+D:\Projects\GameServer\obj\Debug\netcoreapp3.1\GameServer.csproj.CoreCompileInputs.cache
+D:\Projects\GameServer\obj\Debug\netcoreapp3.1\GameServer.dll
+D:\Projects\GameServer\obj\Debug\netcoreapp3.1\GameServer.pdb
+D:\Projects\GameServer\obj\Debug\netcoreapp3.1\GameServer.genruntimeconfig.cache
