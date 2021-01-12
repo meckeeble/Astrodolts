@@ -1,18 +1,21 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.InputSystem;
+
 
 public class PlayerController : MonoBehaviour
 {
     // Start is called before the first frame update
-    void Start()
+    private void FixedUpdate()
     {
-        
+        SendInputToServer();
     }
 
-    // Update is called once per frame
-    void Update()
+    private void SendInputToServer(InputAction.CallbackContext ctx)
     {
-        
+        Vector2 _input = ctx.ReadValue<Vector2>();
     }
+
+    ClientSend.PlayerMovement(_input);
 }

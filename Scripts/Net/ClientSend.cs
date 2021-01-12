@@ -28,6 +28,15 @@ public class ClientSend : MonoBehaviour
         }
     }
 
-   
+    public static void PlayerMovement(Vector3 _input)
+    {
+        using (Packet _packet = new Packet((int)ClientPackets.playerMovement))
+        {
+            //Packet length?
+            _packet.Write(_input);
+            _packet.Write(GameManager.players[GameClient.instance.myId].transform.rotation);
+            SendUDPData(_packet);
+        }
+    }
     #endregion
 }

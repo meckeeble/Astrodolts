@@ -26,4 +26,6 @@ public class ClientHandle : MonoBehaviour
 
         GameManager.instance.SpawnPlayer(_id, _username, _position, _rotation);
     }
+
+    //AddForce here somewhere
 }
